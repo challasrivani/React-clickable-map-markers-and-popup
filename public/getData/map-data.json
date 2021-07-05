@@ -1,0 +1,32 @@
+[
+    {
+        "locationName": "A Loc",
+        "description": "A Description",
+        "coordinates": [10, 30]
+    },
+    {
+        "locationName": "B Loc",
+        "description": "B Description",
+        "coordinates": [200, 230]
+    },
+    {
+        "locationName": "C Loc",
+        "description": "C Description",
+        "coordinates": [300, 330]
+    },
+    {
+        "locationName": "D Loc",
+        "description": "D Description",
+        "coordinates": [400, 500]
+    },
+    {
+        "locationName": "E Loc",
+        "description": "E Description",
+        "coordinates": [150, 455]
+    },
+    {
+        "locationName": "F Loc",
+        "description": "F Description",
+        "coordinates": [300, 80]
+    }
+]
